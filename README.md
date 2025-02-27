@@ -1,1 +1,1 @@
-# larix-core
+# larix core
