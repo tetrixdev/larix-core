@@ -1,0 +1,17 @@
+{
+  "name": "@larix-packages/core",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build": "npx tailwindcss -i ./resources/css/tailwind.css -o ./dist/tailwind.css --minify"
+  },
+  "dependencies": {
+    "htmx.org": "latest",
+    "alpinejs": "latest",
+    "tailwindcss": "latest"
+  },
+  "files": [
+    "dist/*",
+    "src/Components/Classes/Button.php"
+  ]
+}

@@ -1,6 +1,6 @@
 <?php
 
-namespace LarixLabs\Larix\Components\Classes;
+namespace Larix\Larix\Components\Classes;
 
 use Closure;
 use Illuminate\Contracts\View\View;

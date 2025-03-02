@@ -1,10 +1,10 @@
 {
-    "name": "larix-labs/larix-core",
+    "name": "larix-packages/core",
     "description": "Larix Core provides a modern, opinionated set of full-stack Laravel components that help developers build applications quickly and efficiently.",
     "license": "BUSL-1.1",
     "autoload": {
         "psr-4": {
-            "LarixLabs\\LarixCore\\": "src/"
+            "Larix\\Larix\\": "src/"
         }
     },
     "authors": [
